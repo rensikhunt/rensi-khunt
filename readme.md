@@ -28,3 +28,10 @@ The page features:
 
 Live demo of the site (hosted via GitHub Pages):  
 👉 [Lounge Cafe Landing Page](https://rensikhunt.github.io/rensi-khunt/)
+
+
+
+## Website ScreenShots
+----
+<img width="1920" height="10165" alt="image" src="https://github.com/user-attachments/assets/8bf764f5-feaf-4bf6-8e4d-65296c545d51" />
+
